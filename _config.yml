@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Hamilton White"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a joint Ph.D. student in Central Massachusetts, USA.  I'm currently studying the existence of Chronic Traumatic Encephalopathy in Humans using a C. Elegans model to look at protein over-expression and its mechanisms and remediation using a high-throughput screening method."
+  bio              : "I am a joint Ph.D. student in Central Massachusetts, USA.  I'm currently studying the existence of Chronic Traumatic Encephalopathy (CTE) in humans using a C. Elegans model to look at protein over-expression and its mechanisms and remediation using a high-throughput screening method."
   location         : "Central Massachusetts, USA"
   email            :
   uri              :
